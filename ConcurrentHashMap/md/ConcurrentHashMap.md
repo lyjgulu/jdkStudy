@@ -428,7 +428,7 @@ helpTransfer()
 
 transfer()
 
-```java
+``` java
     /**
      * Moves and/or copies the nodes in each bin to new table. See
      * above for explanation.
